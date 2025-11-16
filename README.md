@@ -119,7 +119,7 @@ FROM Pre_Query;
 In almost all groups men tend to order more than women. 
 </p>
 
-### Number of orders for every country for each season
+### Number of orders for every country for each season:
 
 ``` sql
 --2.1 Number of orders for every country for each season
