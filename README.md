@@ -190,7 +190,7 @@ All six countries show a similar order distribution across the seasons. Most sal
 
 ## 🖥️ Technical Details
 
-- **Database:** SQLite
+- **DBMS:** SQLite
 - **Environment:** Google Colab
 - **Visualization:** Google Sheets
 - **Data source:** [Kaggle Bike Sales Dataset](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
